@@ -69,6 +69,7 @@ Srinivas Pudu
 - [Tony Lopez]
 - [Akshay Pandit] (https://github.com/panditakshay)
 - [jpgmoreira]
+- [Dibya] (https://github.com/dibyaaaaax)
 - [Jayanthi Kolli](https://gitlab.com/jayanth1007)
 - [Gary Butler](https://github.com/garybutler288)
 - [Maciej Korolik](https://github.com/maciejkorolik)
